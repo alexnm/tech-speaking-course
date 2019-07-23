@@ -6,7 +6,7 @@ The course is comprised of multiple sessions, each focused on a specific topic a
 ## Course Structure
 
 ### Session 1 - Talk Structure
-In this session we will talk about the reason why one could talk about a subject, about picking your idea for the talk you want to give and focusing on that particular idea. We will talk about structure, about following a single thread that leads the audience from the beginning till the end. But we will also try to talk about structure in terms of sections and parts and how to better balance them.
+In this session we will talk about the reason why you could talk about a subject, about picking your idea for the talk you want to give and about focusing on that particular idea. We will talk about structure, about following a single thread that leads the audience from the beginning till the end. But we will also talk about structure in terms of sections and parts and how to better balance them.
 
 #### Objectives
 * Focusing a talk around a central idea
@@ -30,18 +30,18 @@ Let's talk about your voice. In this session we will mostly talk :) We'll try to
 * Common pitfalls of public speaking
 * How to train your voice
 * Fighting anxiety
-* What kind of language should you use on stage
+* What kind of language you should use on stage
 
 ### Session 4 - Preparation
-This is maybe the key point of the entire activity. We will understand why it's important to practice a lot and we'll go over a few techniques and ideas around preparation. They're no such thing as a good unprepared talk, so we'll make sure to focus on the entire effort up until the grand delivery.
+This is maybe the key point of the entire activity. We will understand why it's important to practice a lot and we'll go over a few techniques and ideas around preparation. There's no such thing as a good unprepared talk, so we'll make sure to focus on the entire effort up until the grand delivery.
 
 #### Objectives
-* Why reharsal is they key to everything
+* Why rehearsal is the key to everything
 * Scripted vs unscripted talks
 * The process of refining your talk in time
 
 ### Session 5 - Delivery
-The big day is here! What can go wrong? What should go well? What it's like to be a the big stage with all the eyes on you? We'll take it one step at a time and we'll figure out the best approach to a great delivery.
+The big day is here! What can go wrong? What should go well? What it's like to be on the big stage with all the eyes on you? We'll take it one step at a time and we'll figure out the best approach to a great delivery.
 
 #### Objectives
 * How to act on stage
