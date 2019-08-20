@@ -28,7 +28,7 @@ Always work nice and build the bigger picture in the mind of the audience. There
 * coming back to the key idea
 * make sure you have a good closure with impact (a call to arms, emphasis of the key point, a thought-provoking idea)
 
-## Content (20 min)
+## Content
 ### Establish the context
 * who is the audience (students, juniors, seniors, management, business)
 * how is the conference like (check prev years)
@@ -58,6 +58,7 @@ A few examples of stories and personal touches in talks:
 * Jeff Lembeck - https://www.youtube.com/watch?v=lEQfKWdUHXY
 * Jake Archibald and Surma - https://www.youtube.com/watch?v=TsTt7Tja30Q
 * David Nolen - https://www.youtube.com/watch?v=lzXHMy4ewtM
+* Anjana Vakil @ JSHeroes - https://www.youtube.com/watch?v=qTHGmVrOGZo
 
 ## Materials
 * slides - https://slides.com/alexmoldovan/tech-speaking-structure#/
